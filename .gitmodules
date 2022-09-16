@@ -1,0 +1,12 @@
+[submodule "base-domains"]
+	path = base-domains
+	url = https://github.com/PranayK27/springboot-kafka-microservices.git
+[submodule "email-service"]
+	path = email-service
+	url = https://github.com/PranayK27/springboot-kafka-microservices.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/PranayK27/springboot-kafka-microservices.git
+[submodule "stock-service"]
+	path = stock-service
+	url = https://github.com/PranayK27/springboot-kafka-microservices.git
