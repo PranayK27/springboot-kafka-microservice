@@ -85,3 +85,5 @@ In a email-service project, create a package named kafka. Within a kafka package
     ->email-service
 
 ![img.png](img.png)
+
+Next, verify the logs in the console for all the 3 microservices.
