@@ -1,6 +1,6 @@
 [submodule "base-domains"]
 	path = base-domains
-	url = https://github.com/PranayK27/springboot-kafka-microservices.git/base-domains
+	url = https://github.com/PranayK27/springboot-kafka-microservices
 [submodule "email-service"]
 	path = email-service
 	url = https://github.com/PranayK27/springboot-kafka-microservices
