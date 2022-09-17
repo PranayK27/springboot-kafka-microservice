@@ -15,5 +15,3 @@ E
 stock-service/pom.xml,a/9/a9ac805c9e72e252e58df42a10f21df8c4951cce
 E
 order-service/pom.xml,d/3/d3bf53ecc442740843266a635cbfe9807b992566
-G
-base-domains/.gitignore,9/a/9acc2581b8ae0219a45f6492353716cdb123e088
