@@ -21,7 +21,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="base-domains" options="-parameters" />
+      <module name="base-domains" options="" />
       <module name="email-service" options="-parameters" />
       <module name="order-service" options="-parameters" />
       <module name="stock-service" options="-parameters" />
