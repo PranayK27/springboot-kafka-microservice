@@ -87,3 +87,22 @@ In a email-service project, create a package named kafka. Within a kafka package
 ![img.png](img.png)
 
 Next, verify the logs in the console for all the 3 microservices.
+
+
+Extras:
+1. Pull the Newman docker image.
+
+$ docker pull postman/newman;
+
+2. Run Newman commands on the image.
+
+$ docker run -t postman/newman run "https://www.getpostman.com/collections/0d0........." 
+
+#### The URL is a shareable public link to your collection. To get this link:
+[//]: # Select the more actions icon More actions icon next to the collection name.
+
+[//]: # Select Share collection.
+
+[//]: # Select Get public link. 
+![img_1.png](img_1.png)
+
